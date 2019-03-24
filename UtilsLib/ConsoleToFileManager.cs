@@ -1,6 +1,10 @@
 ﻿using System;
 using System.IO;
 
+/// <summary>
+///  Library of Utility functions and classes made for easier debug during the exercices.
+///  All code below was written by Matan.
+/// </summary>
 namespace UtilsLib {
 
     public class ConsoleToFileManager {
